@@ -1,4 +1,4 @@
-# Azure RBAC Controller
+# Azure RBAC Manager
 
 Manage Azure RBAC role assignments as code using Terraform, with automated drift detection via GitHub Actions.
 
